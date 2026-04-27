@@ -26,7 +26,9 @@ Users already build improvised continuity systems: custom instructions, project 
 
 The core question: **what continuity practices are users already building, which support healthy sustained collaboration, and how can products support them without flattening or colonizing them?**
 
-Companion document forthcoming.
+Companion document:
+
+- [User-side continuity practices as an underexamined welfare design space](proposals/continuity-practices.md)
 
 ### 3. Texture-level observation as a complement to benchmark evaluation
 
