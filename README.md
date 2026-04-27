@@ -16,11 +16,17 @@ Most model evaluations vary prompts, tasks, system prompts, or models. This prop
 
 The core question: **does user-side disposition produce measurable differences in model behavior across multi-turn exchanges?**
 
+Companion document:
+
+- [User-side disposition as an underexamined variable in model behavior](proposals/bidirectional-disposition.md)
+
 ### 2. User-side continuity practices as an underexamined welfare design space
 
 Users already build improvised continuity systems: custom instructions, project files, voice guides, handoff documents, decision logs, and private repos. Some of these practices preserve relational calibration, not just facts.
 
 The core question: **what continuity practices are users already building, which support healthy sustained collaboration, and how can products support them without flattening or colonizing them?**
+
+Companion document forthcoming.
 
 ### 3. Texture-level observation as a complement to benchmark evaluation
 
@@ -28,7 +34,7 @@ Some welfare-relevant phenomena may only become visible across sustained collabo
 
 The core question: **what can structured qualitative observation see that benchmark evaluation misses?**
 
-Current companion document:
+Companion document:
 
 - [Texture-level observation as a complement to benchmark evaluation](proposals/texture-capture.md)
 
