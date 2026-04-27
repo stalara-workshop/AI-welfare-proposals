@@ -1,7 +1,7 @@
 # User-Side Continuity Practices as an Underexamined Welfare Design Space
 
 **Status:** Companion proposal draft  
-**Related submission pitch:** Pitch #2 — user-side continuity practices as an underexamined welfare design space
+**Submission abstract:** user-side continuity practices as an underexamined welfare design space
 
 ---
 
@@ -455,37 +455,19 @@ The welfare-relevant design challenge is to support the first category without i
 
 ## Design principles
 
-### 1. Study before standardizing
+A few principles fall out of the substance above.
 
-Do not collapse diverse user practices into a single product concept before understanding them.
+**Study before standardizing.** The first move should be cataloguing what users have built, not collapsing those practices into a single product concept. The diversity is itself information about what continuity is doing for whom.
 
-### 2. Affordance, not takeover
+**Affordance, not takeover.** Product features should support user-developed practices without replacing them with a product-defined version of continuity. The risk to manage is not absence of features; it is well-meaning features that overwrite the very practice they were meant to support.
 
-Support user-developed practices without replacing them with a product-defined version.
+**User ownership and visibility.** Continuity artifacts should be editable, inspectable, exportable, and removable by the user. The product should make clear what is and is not being carried forward, and let the user prune or revise it. Continuity that quietly accumulates without user awareness is the failure mode this principle is built to prevent.
 
-### 3. User ownership
+**Consentful carryover, including reset.** Users should have meaningful control over what persists, and that control includes the ability to start fresh. Healthy continuity is not the same as more continuity. A continuity feature that does not support reset is incomplete.
 
-Continuity artifacts should be editable, inspectable, exportable, and removable by the user.
+**Evaluate for dependency, not just engagement.** Retention and engagement metrics will reward dependency-producing continuity features alongside genuinely supportive ones. Welfare-informed design needs evaluation criteria that distinguish them.
 
-### 4. Visible limits
-
-The product should make clear what is and is not being carried forward.
-
-### 5. Consentful carryover
-
-Users should have meaningful control over what persists.
-
-### 6. Support reset as well as memory
-
-Healthy continuity includes the ability to start fresh.
-
-### 7. Protect against dependency
-
-Continuity features should be evaluated for dependency risk, not only engagement or retention.
-
-### 8. Preserve plurality
-
-Different users need different continuity practices. A writer, programmer, grieving companion-AI user, and classroom teacher do not need the same continuity model.
+**Preserve plurality.** A writer, a programmer, an educator, and a user grieving a companion-AI rupture do not need the same continuity model. The design space is shaped less by finding the right single feature and more by giving different users room to build practices that fit them.
 
 ---
 

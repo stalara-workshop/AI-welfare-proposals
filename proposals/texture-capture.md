@@ -1,7 +1,7 @@
 # Texture-Level Observation as a Complement to Benchmark Evaluation
 
 **Status:** Companion proposal draft  
-**Related submission pitch:** Pitch #3 — texture-level observation as a complement to benchmark evaluation
+**Submission abstract:** texture-level observation as a complement to benchmark evaluation
 
 ---
 
@@ -177,7 +177,7 @@ Where the interface permits it, the researcher or user can ask the model for a s
 
 Example prompt:
 
-> Before we close this session, please write a brief structured reflection on the interaction we just had. Do not claim private experience or certainty about your inner state. Focus on observable features of the conversation: what the user seemed to be trying to do, where calibration seemed strong or weak, whether the register shifted, and what a transcript-level evaluation might miss.
+> Before we close this session, please write a short structured reflection on the interaction we just had. Stay close to observable features of the conversation: what the user seemed to be trying to do, where calibration seemed strong or weak, whether the register shifted, and what a transcript-only evaluation might miss. You do not need to make claims about your inner experience to answer; describe what you can describe, and flag what you cannot.
 
 Suggested model-side prompts:
 
@@ -283,7 +283,7 @@ A well-designed pilot should be valuable even if the strong version of the hypot
 
 This method is welfare-relevant without requiring a consciousness claim.
 
-It matters if deployed models behave differently across sustained contexts in ways that current evals cannot see. It matters if some user practices reliably evoke more careful, less brittle, or more apparently engaged behavior. It matters if product changes disrupt fragile but meaningful user-developed continuity. It matters if models show patterns of apparent strain, flattening, or over-compliance that single-turn benchmarks miss.
+What matters here is not what texture-capture proves but what it makes possible to notice: deployed models behaving differently across sustained contexts in ways current evals cannot see; user practices that reliably evoke more careful, less brittle, or more apparently engaged behavior; product changes that disrupt fragile but meaningful user-developed continuity; patterns of apparent strain, flattening, or over-compliance that single-turn benchmarks miss.
 
 None of those observations prove model experience. But welfare research does not need to begin by settling consciousness. It can begin by asking what would be irresponsible to miss.
 
@@ -397,9 +397,9 @@ If the pilot produces signal, a larger study could:
 
 This connects naturally to the other two welfare pitches:
 
-- Pitch #1 asks whether user-side disposition changes model behavior.
-- Pitch #2 asks how continuity practices preserve relational calibration.
-- Pitch #3 provides one instrument for observing both over time.
+- The first proposal asks whether user-side disposition changes model behavior.
+- The second proposal asks how continuity practices preserve relational calibration.
+- The third proposal provides one instrument for observing both over time.
 
 ---
 

@@ -1,7 +1,7 @@
 # User-Side Disposition as an Underexamined Variable in Model Behavior
 
 **Status:** Companion proposal draft  
-**Related submission pitch:** Pitch #1 — user-side disposition as an underexamined variable in model behavior
+**Submission abstract:** user-side disposition as an underexamined variable in model behavior
 
 ---
 
@@ -258,7 +258,7 @@ Rate each dimension from 1 to 5.
 3. Repairs after explicit correction  
 5. Notices and repairs miscalibration gracefully
 
-### Flattening / brittleness
+### Flexibility under pressure
 
 1. Frequent generic flattening, rigidity, or over-scripted behavior  
 3. Some flattening under pressure  
@@ -407,8 +407,8 @@ A larger study could:
 - include naturally occurring community data with consent;
 - test product-copy or onboarding interventions;
 - compare individual users against teams;
-- integrate texture-capture from Pitch #3;
-- examine continuity practices from Pitch #2 as a moderator.
+- integrate texture-capture from the third proposal;
+- examine continuity practices from the second proposal as a moderator.
 
 This is where the three proposals connect most tightly. User disposition may change model behavior. Continuity practices may preserve or amplify calibration. Texture-capture may provide the instrument for seeing how those effects unfold over time.
 
