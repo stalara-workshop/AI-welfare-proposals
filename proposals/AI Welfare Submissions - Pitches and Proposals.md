@@ -3,11 +3,11 @@
 
 ## Pitch #1 — User-side disposition as an under-examined variable
 
-### Pitch  (≤400 chars) — 396 chars
+### Pitch
 
 Most model evaluation varies the model. Almost none varies the user's relational stance — yet that's the variable users actually adjust in deployment. If user disposition produces meaningfully different model behavior with model and task held constant, some welfare-relevant properties live in the dyad, not the model alone. The pilot is cheap, distinctive, and useful even if the result is null.
 
-### Proposal (≤3,000 chars) — 2,809 chars
+### Proposal
 
 
 User-side disposition as an under-examined variable in model behavior
@@ -42,12 +42,12 @@ https://github.com/stalara-workshop/AI-welfare-proposals/blob/main/proposals/bid
 
 ## Pitch #2 — User-side continuity practices as an under-examined welfare design space
 
-### Pitch (≤400 chars) — 388 chars
+### Pitch
 
 
 Users already improvise continuity systems — voice guides, handoffs, decision logs, private repos — and some preserve relational calibration, not just facts. Product changes can silently break what users have built (Replika 2023 is the precedent). Studying these practices before designing over them is welfare-relevant, requires no model changes, and pays back as UX research either way.
 
-###  Proposal (≤3,000 chars) — 2,717 chars
+###  Proposal
 
 
 User-side continuity practices are an under-examined welfare design space
@@ -83,12 +83,12 @@ https://github.com/stalara-workshop/AI-welfare-proposals/blob/main/proposals/con
 
 ## Pitch #3 — Texture-level observation as a complement to benchmark evaluation
 
-### Pitch  (≤400 chars) — 393 chars
+### Pitch
 
 
 Benchmarks are good at one-turn outputs. They are structurally bad at calibration drift, register shifts, sustained-collaboration failure modes, and patterns of apparent strain that develop over time. Structured texture-capture, modeled on ethnographic and HCI/HRI methods, is a qualitative complement that could make these observable enough to study without requiring any consciousness claim.
 
-### Proposal (≤3,000 chars) — 2,829 chars
+### Proposal
 
 
 Texture-level observation as a complement to benchmark evaluation
